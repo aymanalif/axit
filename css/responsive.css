@@ -1,0 +1,120 @@
+@media all and (max-width: 1277px){
+
+    .rigth-side .social-icon ul li a i {
+        padding: 9px 18px;
+        font-size: 36px;
+    }
+
+}
+@media all and (max-width: 1111px){
+
+    .rigth-side .social-icon ul li a i {
+        padding: 12px 13px;
+        font-size: 30px;
+    }
+    .priceing-items .item .service h2 {
+        left: 15%;
+    }
+
+}
+@media all and (max-width: 992px){
+
+    .priceing .container {
+        width: 95%;
+    }
+    .about .container {
+        width: 95%;
+    }
+    .sub-list .container {
+        width: 95% !important;
+    } 
+    .customer-rev .container {
+        width: 95% !important;
+    }
+    .contact .container {
+        width: 95% !important;
+    }
+    .tabs  .container {
+        width: 95% !important;
+    }
+    .social-media  .container {
+        width: 95% !important;
+    }
+    .down-reg  .container {
+        width: 95% !important;
+    }
+
+}
+@media all and (max-width: 768px){
+
+    .left .big-logo {
+        text-align: center;
+    }
+    .down-reg {
+        text-align: center;
+    }
+    .left .down-details {
+        width: 100%;
+    }
+    .left .down-header::before {
+        border-bottom: none;
+    }
+    .pull-right {
+        float: none !important;
+        margin: 31px auto !important;
+    }
+    .social-media {
+        text-align: center;
+    }
+    .tabs .container {
+        background-image: none;
+    }
+    .tabs .left-area .tab-bar ul {
+        width: 100% !important;
+    }
+    .tabs .left-area .tab-bar ul li {
+        width: 100%;
+    }
+    .tabs .left-area .tab-bar ul li a {
+        padding: 13px 0;
+    }
+    .tabs .right-area .tab-con {
+        margin-left: 0px;
+        margin-top: 39px;
+        text-align: center;
+    }
+    .priceing-items .item {
+        float: none;
+        width: 263px;
+        margin: 36px auto;
+        display: block;
+        overflow: hidden;
+    }
+    .priceing-items .item:hover {
+        margin: 0px auto;
+    }
+    .review-items .item {
+        float: none;
+        width: 100%;
+        margin: 36px auto;
+    }
+    .contact-input .right-cont textarea {
+        margin-left: 5%;
+    }
+    .pull-right {
+        float: none !important;
+        margin: 47px auto !important;
+    }
+    .menu-mobile {
+        float: right;
+    }
+    .menu-mobile .drop-down-menu ul li a {
+        padding: 11px 10px;
+    }
+
+}
+@media all and (max-width:426px){
+    .right .register-form {
+        width: 87%;
+    }
+}
